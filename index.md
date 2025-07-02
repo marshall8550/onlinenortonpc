@@ -18,7 +18,7 @@ To successfully **install Norton already purchased**, you will need the followin
 * Your 25-character product key or activation code.
 * A stable internet connection.
 
-If you don’t have a Norton account yet, create one on the official Norton website before proceeding. Registering your product ensures you can manage your subscription and reinstall the product easily in the future.
+If you don’t have a Norton account yet, create one on the official Norton website before proceeding. [Registering your product ensures you can manage your subscription and reinstall the product easily in the future.](https://onlinenortonpc.readthedocs.io/)
 
 
 How to Install Norton Security on This Device Using an Existing Product Key or Activation Code (Already Purchased Guide)
